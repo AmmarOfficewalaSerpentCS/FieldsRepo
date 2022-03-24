@@ -5,6 +5,8 @@
    merges:
        - oca 15.0
        - oca refs/pull/876/head
+       - oca refs/pull/878/head
+
    target: &default_target ammar test-15.0    # Replace XXX with the customer code
 #
 #./src/web:

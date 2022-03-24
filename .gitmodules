@@ -6,6 +6,6 @@
 	path = odoo/src/osi-addons
 	url = https://github.com/ursais/osi-addons.git
 	branch = 15.0
-[submodule "field-service"]
-	path = field-service
+[submodule "src/field-service"]
+	path = src/field-service
 	url = https://github.com/AmmarOfficewalaSerpentCS/field-service.git

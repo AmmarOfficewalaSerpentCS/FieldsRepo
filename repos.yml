@@ -6,6 +6,15 @@
        - oca 15.0
        - oca refs/pull/876/head
        - oca refs/pull/878/head
+       - oca refs/pull/884/head
+       - oca refs/pull/883/head
+       - oca refs/pull/882/head
+       - oca refs/pull/900/head
+       - oca refs/pull/904/head
+       - oca refs/pull/879/head
+       - oca refs/pull/894/head
+       - oca refs/pull/880/head
+       - oca refs/pull/881/head
 
    target: &default_target ammar test-15.0    # Replace XXX with the customer code
 #

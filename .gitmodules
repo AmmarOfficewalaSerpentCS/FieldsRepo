@@ -9,3 +9,6 @@
 [submodule "src/field-service"]
 	path = src/field-service
 	url = https://github.com/AmmarOfficewalaSerpentCS/field-service.git
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
